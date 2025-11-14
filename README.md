@@ -1,7 +1,7 @@
 # To-Do List Web App
 
-This is a simple and responsive To-Do List Web Application created using *HTML, CSS, and JavaScript*.  
-Users can *add tasks, remove tasks, and mark tasks as completed* using a clean and interactive interface.  
+This is a simple and responsive To-Do List Web Application created using **HTML, CSS, and JavaScript**.  
+Users can **add tasks, remove tasks, and mark tasks as completed** using a clean and interactive interface.  
 The app updates dynamically without reloading the page and is perfect for beginners learning DOM manipulation.
 
 ##  Features
@@ -13,8 +13,12 @@ The app updates dynamically without reloading the page and is perfect for beginn
 - Beginner-friendly code structure
 
 ##  Technologies Used
-- *HTML5*
-- *CSS3*
-- *JavaScript (Vanilla JS)*
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
 ## Live Demo
+ https://nisha-patil190.github.io/To-Do-List-Web-App/
+
+ ## Created By
+    Nisha Patil
