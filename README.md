@@ -21,4 +21,4 @@ The app updates dynamically without reloading the page and is perfect for beginn
  https://nisha-patil190.github.io/To-Do-List-Web-App/
 
  ## Created By
-    Nisha Patil
+  Nisha Patil
