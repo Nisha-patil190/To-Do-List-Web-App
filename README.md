@@ -17,4 +17,4 @@ The app updates dynamically without reloading the page and is perfect for beginn
 - *CSS3*
 - *JavaScript (Vanilla JS)*
 
-
+## Live Demo
